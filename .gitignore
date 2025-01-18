@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# big file
+bikes_complete_norm.csv
+bikes_complete.csv
