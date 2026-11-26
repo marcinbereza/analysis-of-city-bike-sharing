@@ -18,3 +18,8 @@ Przeprowadzona analiza pozwoliła na odkrycie niewidocznych wcześniej informacj
 ![Slide7](Slides/Slide7.PNG)
 ![Slide8](Slides/Slide8.PNG)
 ![Slide9](Slides/Slide9.PNG)
+![Slide10](Slides/Slide10.PNG)
+![Slide11](Slides/Slide11.PNG)
+![Slide12](Slides/Slide12.PNG)
+![Slide13](Slides/Slide13.PNG)
+![Slide14](Slides/Slide14.PNG)
