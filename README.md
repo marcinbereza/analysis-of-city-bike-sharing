@@ -8,3 +8,13 @@ W pracy skupiamy się na procesie przygotowania i integracji danych, aby zapewni
 Klasteryzacja oraz utworzone wizualizacje przestrzenne umożliwiły wyodrębnienie różnych grup stacji oraz lepsze zrozumienie systemu rowerowego.
 
 Przeprowadzona analiza pozwoliła na odkrycie niewidocznych wcześniej informacji o wypożyczeniach, ale także sformułować zalecenia, które usprawnią system i zoptymalizują jego działanie.
+
+![Slide1](Slides/Slide1.PNG)
+![Slide2](Slides/Slide2.PNG)
+![Slide3](Slides/Slide3.PNG)
+![Slide4](Slides/Slide4.PNG)
+![Slide5](Slides/Slide5.PNG)
+![Slide6](Slides/Slide6.PNG)
+![Slide7](Slides/Slide7.PNG)
+![Slide8](Slides/Slide8.PNG)
+![Slide9](Slides/Slide9.PNG)
